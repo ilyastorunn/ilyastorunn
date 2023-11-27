@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm İlyas</h1>
 <h3 align="center">Front-End Developer currently working on React</h3>
 
-- 🔭 I’m currently working on [e-commerce-app with React]([https://github.com/ilyastorunn/twitter-x-clone-react](https://github.com/ilyastorunn/e-commerce-app)
+- 🔭 I’m currently working on [e-commerce-app with React]([https://github.com/ilyastorunn/twitter-x-clone-react](https://github.com/ilyastorunn/e-commerce-app))
 
 - 🌱 I’m currently learning **React Native and Next.js**
 
