@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [e-commerce-app with React]([https://github.com/ilyastorunn/twitter-x-clone-react](https://github.com/ilyastorunn/e-commerce-app))
 
-- 🌱 I’m currently learning **React Native and Next.js**
+- 🌱 I’m currently learning **TypeScript and Next.js**
 
 - 📫 How to reach me **ilyastorunn@outlook.com**
 
